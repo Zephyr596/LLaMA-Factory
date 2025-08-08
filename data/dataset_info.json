@@ -1,4 +1,11 @@
 {
+  "gpfs_sharegpt": {
+      "file_name": "~/sre_agent/fine_tune/datasets/gpfs_sharegpt_aug.jsonl",
+      "formatting": "sharegpt",
+      "columns": {
+          "messages": "conversations"
+      }
+  },
   "identity": {
     "file_name": "identity.json"
   },
